@@ -1,0 +1,12 @@
+chrono
+Even Sum = 250000000500000000
+Odd Sum = 250000000000000000
+Elapsed time = 6.5049
+ 
+ 
+ 
+ Threads
+Even Sum = 250000000500000000
+Odd Sum = 250000000000000000
+Elapsed time = 4.70489
+
