@@ -1,7 +1,8 @@
+//chrono
 #include <iostream>
 #include <algorithm>
 #include <chrono>
-#include <thread>
+//#include <thread>
 
 using namespace std;
 typedef unsigned long long int uint64;
